@@ -1,0 +1,7 @@
+{
+  "nouns" : [ "bunny", "rabbit", "cat", "dog", "battery", "firetruck", "bananna", "cow", "car", "bike", "bus", "fire hydrant" ],
+  "adverbs" : [ "quickly", "quietly" ],
+  "pluralnouns" : [ "cats", "dogs", "trucks", "cars" ],
+  "adjectives" : [ "smelly", "slimy" ],
+  "verbs" : [ "run" ]
+}
